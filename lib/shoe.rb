@@ -20,4 +20,5 @@ class Shoe
   end
   def brands
     @brands
+  end
 end
